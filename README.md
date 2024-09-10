@@ -1,14 +1,12 @@
 # Hi there! 👋 I'm Kirito
 
-Passionate Minecraft Java Developer
+Developer in Java and Kotlin
 
 Welcome to my GitHub profile
 
 ## About Me
 
-- 💻 Minecraft Java Developer with a focus on creating scalable and performant game mechanics.
-- 🌐 Proficient in Java, crafting elegant and maintainable code for seamless gameplay.
-- 🎮 Dedicated to enhancing player experiences through innovative plugins.
+-I like coding 
 
 
 ## GitHub Stats
@@ -30,8 +28,8 @@ Here are some of my repositories:
 
 ```java
 public class MySkills {
-  private final String[] languages = {"Java", "Minecraft Command Language"};
-  private final String[] tools = {"IntelliJ", "Git", "Enchanted Anvil"};
-  private final String[] frameworks = {"Spigot", "Bukkit"};
+  private final String[] languages = {"Java", "Kotlin"};
+  private final String[] tools = {"IntelliJ", "Git"};
+  private final String[] frameworks = {"Spigot", "Jda"};
   
 }
