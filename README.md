@@ -1,4 +1,4 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=Kiritosky&theme=beach&email=your@email.com&show_icons=true&title=Your%20name&description=Your%20description&include_all_commits=true&show_icons=true)](https://github.com/max1mde/fancy-readme-stats)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=Kiritosky&theme=beach&show_icons=true&title=Kirito&description=I%20am%20Kirito&include_all_commits=true&show_icons=true)](https://github.com/max1mde/fancy-readme-stats)
 
 Developer in Java and Kotlin
 
