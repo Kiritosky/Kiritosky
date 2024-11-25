@@ -33,3 +33,7 @@ public class MySkills {
   private final String[] frameworks = {"Spigot", "Jda"};
   
 }
+
+##  #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Kiritosky/30-nites-of-code)  
+  ![@Kiritosky #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kiritosky)
