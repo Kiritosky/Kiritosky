@@ -23,6 +23,9 @@ Here are some of my repositories:
 
 [![SkyEssentials](https://github-readme-stats.vercel.app/api/pin/?username=kiritosky&repo=SkyEssentials-Plugin&theme=radical)](https://github.com/kiritosky/SkyEssentials-Plugin) 
 
+##  #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Kiritosky/30-nites-of-code)  
+  ![@Kiritosky #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kiritosky)
 
 ## Skills
 
@@ -33,7 +36,3 @@ public class MySkills {
   private final String[] frameworks = {"Spigot", "Jda"};
   
 }
-
-##  #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Kiritosky/30-nites-of-code)  
-  ![@Kiritosky #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Kiritosky)
