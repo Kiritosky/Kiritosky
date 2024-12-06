@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kiritosky.Kiritosky&left_text=Profile%20Visitors"  />
+[![](https://visitcount.itsvg.in/api?id=Kiritosky&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ###
 
@@ -50,11 +50,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord%20Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kiritosky/Kiritosky/output/snake.svg" alt="Snake animation" />
 
 ###
