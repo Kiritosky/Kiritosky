@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiritosky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Kiritosky&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiritosky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Kiritosky&theme=onedark&column=8&margin-w=0&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
