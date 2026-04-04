@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiritosky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiritosky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" /> <br>
-</div>
-
-###
-
 [![](https://visitcount.itsvg.in/api?id=Kiritosky&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ###
@@ -19,9 +12,6 @@
   </a>
   <a href="https://www.twitch.tv/kirito_sky_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/4R6UMmYpfE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord%20Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
