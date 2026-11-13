@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Kiritosky">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Developer+from+Germany+🇩🇪;Building+cool+stuff+on+the+web;Streaming+on+Twitch+as+kirito_sky_;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Developer+from+Germany;Minecraft+Mods+%26+Plugins+in+Java;macOS+Apps+in+Swift;Building+Brainmatter+in+Rust" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@
 ### 🧑‍💻 About me
 
 - 🌍 Developer based in **Germany**
-- 🔭 Currently working on **Brainmatter**
-- 🌱 Learning **Rust**
+- 🧠 Currently building **[Brainmatter](https://github.com/Kiritosky/brainmatter)**, a local, encrypted knowledge graph for your Mac with MCP support
+- ⛏️ Making **Minecraft mods & plugins**, mostly add-ons for the Create mod
+- 🍎 Developing **macOS apps** in Swift
 - 🎮 Streaming & gaming on **Twitch**
-- 💬 Ask me about **Minecraft or AI**
 
 ---
 
@@ -31,17 +31,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,linux&perline=11" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,swift,rust,ts,js,py,git,github,idea,apple&perline=12" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 [**Brainmatter**](https://github.com/Kiritosky/brainmatter) | Local, encrypted knowledge graph for your Mac & shared memory for AI tools via MCP | Rust · TypeScript |
+| 📒 [**Nook**](https://github.com/Kiritosky/Nook) | macOS app for developers | Swift |
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kiritosky&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritosky&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
