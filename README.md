@@ -20,10 +20,10 @@
 ### 🧑‍💻 About me
 
 - 🌍 Developer based in **Germany**
-- 🔭 Currently working on **[dein aktuelles Projekt]**
-- 🌱 Learning **[was du gerade lernst]**
+- 🔭 Currently working on **Brainmatter**
+- 🌱 Learning **Rust**
 - 🎮 Streaming & gaming on **Twitch**
-- 💬 Ask me about **[deine Themen]**
+- 💬 Ask me about **Minecraft or AI**
 
 ---
 
